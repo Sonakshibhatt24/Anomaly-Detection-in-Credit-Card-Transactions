@@ -1,0 +1,4 @@
+This project utilized PowerBI Desktop to conduct a comprehensive analysis of an anomaly detection dataset. 
+Beginning with meticulous data import and cleaning processes, the focus was on ensuring data accuracy and consistency. 
+Leveraging the capabilities of Data Analysis Expressions (DAX), advanced calculations and measures were created to derive meaningful insights. 
+The subsequent phase involved the use of various visualizations, including charts and graphs, to effectively represent data patterns and anomalies. The project culminated in the development of a dynamic dashboard hosted on PowerBI Service, providing a collaborative platform for exploration and showcasing key findings in an accessible manner. This holistic approach covered data import, cleaning, DAX utilization, visualization, anomaly identification, and dynamic dashboard creation, ensuring a thorough and insightful analysis of the anomaly detection dataset.
